@@ -1,4 +1,4 @@
-# CocoaHeads Conference 2016 Código de Conduta
+# CocoaHeads Conference 2018 Código de Conduta
 
 CocoaHeads Conference está dedicada a fornecer uma experiência livre de assédio, independente de gênero, orientação sexual, deficiências, aparência física, tamanho do corpo, raça ou religião. Nós não toleramos assédio de qualquer forma aos participantes da conferência. Linguagens e imagens com conteúdo sexual não é apropriada para a local da conferência, incluindo nas palestras, _workshops_, festas, Twitter e outras mídias online. Participantes da conferência que violarem essas regras serão sancionados ou expulsos da conferência sem direito a restituição à critério dos organizadores.
 
@@ -22,4 +22,4 @@ Organizadores da CocoaHeads Conference e voluntários podem ser identificados ou
 
 Este Código de Conduta é derivado e traduzido da try! Conference 2016, que foi derivado da iOSDevCampDC 2015, que foi derivado da DroidCon NYC 2015, que foi derivado da DroidCon India 2014, que foi por sua vez derivado do Código de Conduta da PyCon US, que foi então derivado da wiki Geek Feminist, criada pela Ada Initiative e outros voluntários, e está disponível sob a licença Creative Commons Zero.
 
-O Código de Conduta da Conferência para a CocoaHeads Conference 2016 está licenciada sob a Creative Commons Attribution 3.0 Unported License.
+O Código de Conduta da Conferência para a CocoaHeads Conference 2018 está licenciada sob a Creative Commons Attribution 3.0 Unported License.
